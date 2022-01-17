@@ -88,9 +88,8 @@ export class VideojuegosService {
       lanzamiento: "18 de mayo de 2015",
       consola: "pc"
     }
-
   ];
-
+//hola
   constructor() {
     console.log("servicio listo para usarse");
   }
